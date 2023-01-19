@@ -3,8 +3,9 @@
 // import Setcount from "./Components/Setcount";
 // import Setcountstyle from "./Components/Setcountstyle.css";
 // import Weatherapp from "./Components/Weatherapp";
-import Usestatehook from "./Components/Usestatehook";
-import Usestatehookstyle from "./Components/Usestatehookstyle.css";
+// import Usestatehook from "./Components/Usestatehook";
+// import Usestatehookstyle from "./Components/Usestatehookstyle.css";
+import Useeffecthook from "./Components/Useeffecthook";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       {/* <Todo/> */}
       {/* <Setcount/> */}
       {/* <Weatherapp/> */}
-      <Usestatehook/>
+      {/* <Usestatehook/> */}
+      <Useeffecthook/>
     </div>
   );
 }
